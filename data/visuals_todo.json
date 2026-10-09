@@ -1,0 +1,499 @@
+[
+  {
+    "article": "L1367-06991",
+    "brand": "PERGO",
+    "collection": "Kalmar",
+    "texture": "textures/L1367-06991.jpg",
+    "media_id": "0f2cd409-021b-461a-a6fe-9dc576c94b95"
+  },
+  {
+    "article": "L1367-06989",
+    "brand": "PERGO",
+    "collection": "Kalmar",
+    "texture": "textures/L1367-06989.jpg",
+    "media_id": "03ac7f27-b381-4b89-a849-e2400e84cebc"
+  },
+  {
+    "article": "LFT639",
+    "brand": "LOC FLOOR",
+    "collection": "Tempo",
+    "texture": "textures/LFT639.png",
+    "media_id": "694c0b14-18cc-4031-bf43-f95189c2b10d"
+  },
+  {
+    "article": "LFT644",
+    "brand": "LOC FLOOR",
+    "collection": "Tempo",
+    "texture": "textures/LFT644.jpg",
+    "media_id": "cf15189f-b938-4f2c-9f94-0a09de1e41c1"
+  },
+  {
+    "article": "AF4503PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4503PQL.jpg",
+    "media_id": "0a9b83ae-3a3c-4215-a536-2d1fab4b38c7"
+  },
+  {
+    "article": "AF4506PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4506PQL.jpg",
+    "media_id": "0fe8563f-d66e-4341-9b07-696318e3dbef"
+  },
+  {
+    "article": "AF4511PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4511PQL.jpg",
+    "media_id": "205f17bc-80fd-407d-80b0-6a71f6bd65d5"
+  },
+  {
+    "article": "AF4504PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4504PQL.jpg",
+    "media_id": "8b721e31-a23f-4076-b38b-e3d5e2994a8a"
+  },
+  {
+    "article": "AF4513PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4513PQL.jpg",
+    "media_id": "f8bd5a17-fb4f-4fec-be5e-4a8245e68f78"
+  },
+  {
+    "article": "AF4514PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4514PQL.jpg",
+    "media_id": "f0c38b4d-582a-4458-b935-6425b52d0690"
+  },
+  {
+    "article": "AF4519PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4519PQL.jpg",
+    "media_id": "5f9bea84-95d9-4683-8048-a3290a4bcb7b"
+  },
+  {
+    "article": "AF4505PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4505PQL.jpg",
+    "media_id": "7cc0d737-2f18-4e94-9836-e30cc3cccc76"
+  },
+  {
+    "article": "AF4515PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4515PQL.jpg",
+    "media_id": "27915dc9-2f32-4dd9-96c1-a20a42bc88be"
+  },
+  {
+    "article": "AF4518PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4518PQL.jpg",
+    "media_id": "92ae4eaf-e098-447f-b2cc-6476e0760d00"
+  },
+  {
+    "article": "AF4501PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4501PQL.jpg",
+    "media_id": "fdad74e7-8d87-44b0-8549-b84935acd17a"
+  },
+  {
+    "article": "AF4507PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4507PQL.jpg",
+    "media_id": "9ec019c7-2340-476e-b844-ceb896b3adb7"
+  },
+  {
+    "article": "AF4517PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4517PQL.jpg",
+    "media_id": "1833980a-c88e-4736-913e-6e7f8e78ec4a"
+  },
+  {
+    "article": "AF4502PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4502PQL.jpg",
+    "media_id": "c45bf242-619f-4a13-a948-528e48f5ed6a"
+  },
+  {
+    "article": "AF4509PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4509PQL.jpg",
+    "media_id": "99a0f69d-31a5-4d1f-87c7-b7a55c35f46d"
+  },
+  {
+    "article": "AF4520PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4520PQL.jpg",
+    "media_id": "4c9700a5-22be-497b-8d09-7bed7eb961fa"
+  },
+  {
+    "article": "AF4510PQL",
+    "brand": "AQUAFLOOR",
+    "collection": "Space Parquet (замковая)",
+    "texture": "textures/AF4510PQL.jpg",
+    "media_id": "2e965ca1-190c-4426-b429-21c8a45529d4"
+  },
+  {
+    "article": "AF2504PG",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Glue (клеевая)",
+    "texture": "textures/AF2504PG.jpg",
+    "media_id": "c9d0c7f8-7395-43ea-acc8-7146c0299555"
+  },
+  {
+    "article": "AF2507PG",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Glue (клеевая)",
+    "texture": "textures/AF2507PG.jpg",
+    "media_id": "f3dc8923-0669-4565-8e25-afe0f03f55c5"
+  },
+  {
+    "article": "AF2517PG",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Glue (клеевая)",
+    "texture": "textures/AF2517PG.jpg",
+    "media_id": "bf774d2c-aa21-49c3-ab46-28117779407a"
+  },
+  {
+    "article": "AF2516PG",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Glue (клеевая)",
+    "texture": "textures/AF2516PG.jpg",
+    "media_id": "6e0f693b-521c-4527-9ce0-73da99d6e725"
+  },
+  {
+    "article": "AF6026PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6026PQ_.jpg",
+    "media_id": "a56c2385-cae1-4c07-add7-63f7c8b84e80"
+  },
+  {
+    "article": "AF6027PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6027PQ_.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF6017PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6017PQ_.jpg",
+    "media_id": "86fed5af-9684-46ce-9007-730caa8b0f01"
+  },
+  {
+    "article": "AF6019PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6019PQ_.jpg",
+    "media_id": "65e692d8-d737-4eee-b2d5-2766353f84ec"
+  },
+  {
+    "article": "AF6029PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6029PQ_.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF6011PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6011PQ_.jpg",
+    "media_id": "ed3c02e4-d716-4ef3-b364-df260ca9db3e"
+  },
+  {
+    "article": "AF6016PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6016PQ_.jpg",
+    "media_id": "d9513c4b-e9f6-4274-94ac-74c460f6f381"
+  },
+  {
+    "article": "AF6028PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6028PQ_.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF6020PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6020PQ_.jpg",
+    "media_id": "1e1a9818-66b7-4cb1-a182-c1bda4431890"
+  },
+  {
+    "article": "AF6012PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6012PQ_.jpg",
+    "media_id": "a209e523-69af-482c-aab4-d4799dcfcabc"
+  },
+  {
+    "article": "AF6021PQN+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6021PQN_.jpg",
+    "media_id": "dd49cf93-0e92-4d19-af95-b9c925f7fac0"
+  },
+  {
+    "article": "AF6023PQN+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6023PQN_.jpg",
+    "media_id": "5ff9d73c-7c71-4647-ab93-0dabfdb0d200"
+  },
+  {
+    "article": "AF6024PQN+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6024PQN_.jpg",
+    "media_id": "c49bdf1b-b638-4b0d-8c98-c451a7b04e85"
+  },
+  {
+    "article": "AF6022PQN+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6022PQN_.jpg",
+    "media_id": "cd77b148-ff41-41bd-88de-a1ecb84c13f0"
+  },
+  {
+    "article": "AF6025PQN+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6025PQN_.jpg",
+    "media_id": "da29145d-e299-4f92-991c-5857f1bfd4a5"
+  },
+  {
+    "article": "AF6013PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6013PQ_.jpg",
+    "media_id": "c8f53067-fc4b-43ad-9133-d04f0eb9d819"
+  },
+  {
+    "article": "AF6014PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6014PQ_.jpg",
+    "media_id": "f8f69c5c-b614-4552-b0b8-00bc310ef27a"
+  },
+  {
+    "article": "AF6015PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6015PQ_.jpg",
+    "media_id": "1966d07a-3b7f-4e06-a241-508119f36f1f"
+  },
+  {
+    "article": "AF6018PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6018PQ_.jpg",
+    "media_id": "c87b9180-9cab-4e53-83bf-6621f808fde8"
+  },
+  {
+    "article": "AF6030PQ+",
+    "brand": "AQUAFLOOR",
+    "collection": "Parquet Plus (7мм)",
+    "texture": "textures/AF6030PQ_.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF2551PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2551PGCh.jpg",
+    "media_id": "1cb7255f-20f2-4d1c-b794-dbe971920f70"
+  },
+  {
+    "article": "AF2552PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2552PGCh.jpg",
+    "media_id": "b82024a1-66b4-4ccc-8757-f6b45143e1cf"
+  },
+  {
+    "article": "AF2553PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2553PGCh.jpg",
+    "media_id": "b9454aea-bb07-4fbe-b796-539a274cbfcd"
+  },
+  {
+    "article": "AF2554PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2554PGCh.jpg",
+    "media_id": "ac8aa2b8-db9b-4f34-8716-2fb799317d2e"
+  },
+  {
+    "article": "AF2555PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2555PGCh.jpg",
+    "media_id": "923f2504-6491-4c1b-b658-1f1ff4e535ae"
+  },
+  {
+    "article": "AF2556PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2556PGCh.jpg",
+    "media_id": "3ad3ab1b-5392-443a-a653-0bae2ebb7512"
+  },
+  {
+    "article": "AF2557PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2557PGCh.jpg",
+    "media_id": "fb4a0942-0ada-49f3-879a-eaf8adb49e6b"
+  },
+  {
+    "article": "AF2558PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2558PGCh.jpg",
+    "media_id": "4557f959-bf49-4794-980a-f7201119ee34"
+  },
+  {
+    "article": "AF2559PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2559PGCh.jpg",
+    "media_id": "e901f272-3757-4b5f-b6a7-f851a9f08030"
+  },
+  {
+    "article": "AF2560PGCh",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron (клеевая франц. ёлочка)",
+    "texture": "textures/AF2560PGCh.jpg",
+    "media_id": "311d7fc3-a1ce-4ddf-a62e-e1ad724577fa"
+  },
+  {
+    "article": "AF7011CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7011CVR.jpg",
+    "media_id": "2a5a4ee4-ab76-4294-8dd9-ffe41684e5bb"
+  },
+  {
+    "article": "AF7012CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7012CVR.jpg",
+    "media_id": "e35a3c62-7af4-4eec-94cd-29181226ebd9"
+  },
+  {
+    "article": "AF7013CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7013CVR.jpg",
+    "media_id": "e4f41f98-470a-4277-9f11-84e27a03e84a"
+  },
+  {
+    "article": "AF7014CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7014CVR.jpg",
+    "media_id": "e6d82297-bcf4-4205-93fa-0df4e2714f88"
+  },
+  {
+    "article": "AF7015CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7015CVR.jpg",
+    "media_id": "257a0138-0b24-447c-8ed9-3d77702f2681"
+  },
+  {
+    "article": "AF7018CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7018CVR.jpg",
+    "media_id": "e9a6e96d-e2dc-4b9f-b2aa-5f6e3ea8bf4e"
+  },
+  {
+    "article": "AF7017CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7017CVR.jpg",
+    "media_id": "8a31ec73-c9b6-401b-8610-31a1d1b2f381"
+  },
+  {
+    "article": "AF7016CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7016CVR.jpg",
+    "media_id": "489f4c00-5ea2-4f7b-ab85-56858066d841"
+  },
+  {
+    "article": "AF7019CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7019CVR.jpg",
+    "media_id": "ad2fa178-8eec-4df1-8f84-6d2f6a8fc696"
+  },
+  {
+    "article": "AF7020CVR",
+    "brand": "AQUAFLOOR",
+    "collection": "Chevron Premium (замковая франц. ёлочка)",
+    "texture": "textures/AF7020CVR.jpg",
+    "media_id": "4cbd7504-071c-4a15-8ec2-aacafa5b828a"
+  },
+  {
+    "article": "AF7505SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7505SOU.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF7501SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7501SOU.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF7502SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7502SOU.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF7506SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7506SOU.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF7503SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7503SOU.jpg",
+    "media_id": null
+  },
+  {
+    "article": "AF7504SOU",
+    "brand": "AQUAFLOOR",
+    "collection": "Soundless",
+    "texture": "textures/AF7504SOU.jpg",
+    "media_id": null
+  }
+]

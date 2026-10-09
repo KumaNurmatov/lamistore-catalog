@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "lamistore-demo",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd \"$(dirname \"$0\")/../site\" && exec python3 -m http.server 4173", "./.claude/x"],
+      "port": 4173
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Исходные текстуры декоров — 3-13 МБ каждая, в репозитории не нужны.
+# Восстанавливаются скриптами scrape_*.py.
+textures/
+
+# Карточки в полном разрешении (~1.5 МБ каждая). В репозиторий идёт
+# только пережатая версия в site/cards/.
+cards/*.png
+
+# Товарная матрица и выгрузка — внутренние документы заказчика,
+# в публичный репозиторий не выкладываем.
+data/matrix.xlsx
+data/products.json
+data/tilda_import.csv
+
+.DS_Store
+.preview
+
+# Рабочие промежуточные папки — в публичный репозиторий не нужны.
+handoff/
+site/
+textures/_candidates/
+textures/_official_visuals/
+textures/_rejected_visuals/
+textures/_flat/
+textures/_layout/
+data/eparket_urls.txt
+
+# Цены заказчика по всему каталогу — в публичный репозиторий не выкладываем.
+data/price_report.csv
+data/tilda_import*.csv

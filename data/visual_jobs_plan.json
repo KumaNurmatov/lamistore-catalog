@@ -1,0 +1,499 @@
+[
+  {
+    "i": 0,
+    "article": "L1367-06991",
+    "mid": "0f2cd409-021b-461a-a6fe-9dc576c94b95",
+    "lay": "S",
+    "tone": "light warm"
+  },
+  {
+    "i": 1,
+    "article": "L1367-06989",
+    "mid": "03ac7f27-b381-4b89-a849-e2400e84cebc",
+    "lay": "S",
+    "tone": "very pale warm"
+  },
+  {
+    "i": 2,
+    "article": "LFT639",
+    "mid": "694c0b14-18cc-4031-bf43-f95189c2b10d",
+    "lay": "S",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 3,
+    "article": "LFT644",
+    "mid": "cf15189f-b938-4f2c-9f94-0a09de1e41c1",
+    "lay": "S",
+    "tone": "mid-tone cool grey"
+  },
+  {
+    "i": 4,
+    "article": "AF4503PQL",
+    "mid": "4a454ef1-a17b-4adc-b033-0fa0aa956dcc",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 5,
+    "article": "AF4506PQL",
+    "mid": "9d22ce1f-6242-411e-9282-554070a9766c",
+    "lay": "H",
+    "tone": "very pale warm"
+  },
+  {
+    "i": 6,
+    "article": "AF4511PQL",
+    "mid": "a8a3025a-bb2c-489a-b89a-4672c392df67",
+    "lay": "H",
+    "tone": "very pale cool grey"
+  },
+  {
+    "i": 7,
+    "article": "AF4504PQL",
+    "mid": "9f3fd56b-508e-49ca-b9f6-8696822b2f33",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 8,
+    "article": "AF4513PQL",
+    "mid": "f8bd5a17-fb4f-4fec-be5e-4a8245e68f78",
+    "lay": "H",
+    "tone": "mid-tone cool grey"
+  },
+  {
+    "i": 9,
+    "article": "AF4514PQL",
+    "mid": "f0c38b4d-582a-4458-b935-6425b52d0690",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 10,
+    "article": "AF4519PQL",
+    "mid": "5f9bea84-95d9-4683-8048-a3290a4bcb7b",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 11,
+    "article": "AF4505PQL",
+    "mid": "fe7965ff-61d2-4259-9b7c-9a3e15f53b2b",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 12,
+    "article": "AF4515PQL",
+    "mid": "27915dc9-2f32-4dd9-96c1-a20a42bc88be",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 13,
+    "article": "AF4518PQL",
+    "mid": "92ae4eaf-e098-447f-b2cc-6476e0760d00",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 14,
+    "article": "AF4501PQL",
+    "mid": "900b785b-b566-48fe-8813-03fd2432cfd6",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 15,
+    "article": "AF4507PQL",
+    "mid": "aa92cea0-293a-46a2-adb2-d84792a5935a",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 16,
+    "article": "AF4517PQL",
+    "mid": "1833980a-c88e-4736-913e-6e7f8e78ec4a",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 17,
+    "article": "AF4502PQL",
+    "mid": "3f8411cb-4540-40e4-948f-18958be1ffd2",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 18,
+    "article": "AF4509PQL",
+    "mid": "856efd25-d7e1-4855-b06e-4ae0612f4cc4",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 19,
+    "article": "AF4520PQL",
+    "mid": "4c9700a5-22be-497b-8d09-7bed7eb961fa",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 20,
+    "article": "AF4510PQL",
+    "mid": "b6013ed8-0740-4c70-9811-e0d0c1f2f242",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 21,
+    "article": "AF2504PG",
+    "mid": "c9d0c7f8-7395-43ea-acc8-7146c0299555",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 22,
+    "article": "AF2507PG",
+    "mid": "f3dc8923-0669-4565-8e25-afe0f03f55c5",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 23,
+    "article": "AF2517PG",
+    "mid": "bf774d2c-aa21-49c3-ab46-28117779407a",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 24,
+    "article": "AF2516PG",
+    "mid": "6e0f693b-521c-4527-9ce0-73da99d6e725",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 25,
+    "article": "AF6026PQ+",
+    "mid": "a56c2385-cae1-4c07-add7-63f7c8b84e80",
+    "lay": "H",
+    "tone": "very pale warm"
+  },
+  {
+    "i": 26,
+    "article": "AF6027PQ+",
+    "mid": "17bd042b-5753-4f6c-9083-dd0494ec4545",
+    "lay": "H",
+    "tone": "very pale warm"
+  },
+  {
+    "i": 27,
+    "article": "AF6017PQ+",
+    "mid": "86fed5af-9684-46ce-9007-730caa8b0f01",
+    "lay": "H",
+    "tone": "light cool grey"
+  },
+  {
+    "i": 28,
+    "article": "AF6019PQ+",
+    "mid": "65e692d8-d737-4eee-b2d5-2766353f84ec",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 29,
+    "article": "AF6029PQ+",
+    "mid": "27b05d6e-fdcb-4f18-a9e4-1c1956c2980c",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 30,
+    "article": "AF6011PQ+",
+    "mid": "ed3c02e4-d716-4ef3-b364-df260ca9db3e",
+    "lay": "H",
+    "tone": "very pale greyish"
+  },
+  {
+    "i": 31,
+    "article": "AF6016PQ+",
+    "mid": "d9513c4b-e9f6-4274-94ac-74c460f6f381",
+    "lay": "H",
+    "tone": "very pale greyish"
+  },
+  {
+    "i": 32,
+    "article": "AF6028PQ+",
+    "mid": "4c008533-1978-4da6-81d9-5c8d7854feae",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 33,
+    "article": "AF6020PQ+",
+    "mid": "1e1a9818-66b7-4cb1-a182-c1bda4431890",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 34,
+    "article": "AF6012PQ+",
+    "mid": "a209e523-69af-482c-aab4-d4799dcfcabc",
+    "lay": "H",
+    "tone": "very pale cool grey"
+  },
+  {
+    "i": 35,
+    "article": "AF6021PQN+",
+    "mid": "dd49cf93-0e92-4d19-af95-b9c925f7fac0",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 36,
+    "article": "AF6023PQN+",
+    "mid": "5ff9d73c-7c71-4647-ab93-0dabfdb0d200",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 37,
+    "article": "AF6024PQN+",
+    "mid": "c49bdf1b-b638-4b0d-8c98-c451a7b04e85",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 38,
+    "article": "AF6022PQN+",
+    "mid": "cd77b148-ff41-41bd-88de-a1ecb84c13f0",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 39,
+    "article": "AF6025PQN+",
+    "mid": "da29145d-e299-4f92-991c-5857f1bfd4a5",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 40,
+    "article": "AF6013PQ+",
+    "mid": "c8f53067-fc4b-43ad-9133-d04f0eb9d819",
+    "lay": "H",
+    "tone": "light cool grey"
+  },
+  {
+    "i": 41,
+    "article": "AF6014PQ+",
+    "mid": "f8f69c5c-b614-4552-b0b8-00bc310ef27a",
+    "lay": "H",
+    "tone": "light cool grey"
+  },
+  {
+    "i": 42,
+    "article": "AF6015PQ+",
+    "mid": "1966d07a-3b7f-4e06-a241-508119f36f1f",
+    "lay": "H",
+    "tone": "deep dark cool grey"
+  },
+  {
+    "i": 43,
+    "article": "AF6018PQ+",
+    "mid": "c87b9180-9cab-4e53-83bf-6621f808fde8",
+    "lay": "H",
+    "tone": "mid-tone greyish"
+  },
+  {
+    "i": 44,
+    "article": "AF6030PQ+",
+    "mid": "1e76e53f-70a5-4df1-968c-adb126e5d229",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 45,
+    "article": "AF2551PGCh",
+    "mid": "1cb7255f-20f2-4d1c-b794-dbe971920f70",
+    "lay": "H",
+    "tone": "light greyish"
+  },
+  {
+    "i": 46,
+    "article": "AF2552PGCh",
+    "mid": "b82024a1-66b4-4ccc-8757-f6b45143e1cf",
+    "lay": "H",
+    "tone": "mid-tone cool grey"
+  },
+  {
+    "i": 47,
+    "article": "AF2553PGCh",
+    "mid": "b9454aea-bb07-4fbe-b796-539a274cbfcd",
+    "lay": "H",
+    "tone": "mid-tone cool grey"
+  },
+  {
+    "i": 48,
+    "article": "AF2554PGCh",
+    "mid": "ac8aa2b8-db9b-4f34-8716-2fb799317d2e",
+    "lay": "H",
+    "tone": "mid-tone greyish"
+  },
+  {
+    "i": 49,
+    "article": "AF2555PGCh",
+    "mid": "923f2504-6491-4c1b-b658-1f1ff4e535ae",
+    "lay": "H",
+    "tone": "light warm"
+  },
+  {
+    "i": 50,
+    "article": "AF2556PGCh",
+    "mid": "3ad3ab1b-5392-443a-a653-0bae2ebb7512",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 51,
+    "article": "AF2557PGCh",
+    "mid": "fb4a0942-0ada-49f3-879a-eaf8adb49e6b",
+    "lay": "H",
+    "tone": "deep dark greyish"
+  },
+  {
+    "i": 52,
+    "article": "AF2558PGCh",
+    "mid": "4557f959-bf49-4794-980a-f7201119ee34",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 53,
+    "article": "AF2559PGCh",
+    "mid": "e901f272-3757-4b5f-b6a7-f851a9f08030",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 54,
+    "article": "AF2560PGCh",
+    "mid": "311d7fc3-a1ce-4ddf-a62e-e1ad724577fa",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 55,
+    "article": "AF7011CVR",
+    "mid": "2a5a4ee4-ab76-4294-8dd9-ffe41684e5bb",
+    "lay": "H",
+    "tone": "very pale golden"
+  },
+  {
+    "i": 56,
+    "article": "AF7012CVR",
+    "mid": "e35a3c62-7af4-4eec-94cd-29181226ebd9",
+    "lay": "H",
+    "tone": "light golden"
+  },
+  {
+    "i": 57,
+    "article": "AF7013CVR",
+    "mid": "e4f41f98-470a-4277-9f11-84e27a03e84a",
+    "lay": "H",
+    "tone": "light golden"
+  },
+  {
+    "i": 58,
+    "article": "AF7014CVR",
+    "mid": "e6d82297-bcf4-4205-93fa-0df4e2714f88",
+    "lay": "H",
+    "tone": "mid-tone warm"
+  },
+  {
+    "i": 59,
+    "article": "AF7015CVR",
+    "mid": "257a0138-0b24-447c-8ed9-3d77702f2681",
+    "lay": "H",
+    "tone": "light golden"
+  },
+  {
+    "i": 60,
+    "article": "AF7018CVR",
+    "mid": "e9a6e96d-e2dc-4b9f-b2aa-5f6e3ea8bf4e",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 61,
+    "article": "AF7017CVR",
+    "mid": "8a31ec73-c9b6-401b-8610-31a1d1b2f381",
+    "lay": "H",
+    "tone": "light golden"
+  },
+  {
+    "i": 62,
+    "article": "AF7016CVR",
+    "mid": "489f4c00-5ea2-4f7b-ab85-56858066d841",
+    "lay": "H",
+    "tone": "light golden"
+  },
+  {
+    "i": 63,
+    "article": "AF7019CVR",
+    "mid": "ad2fa178-8eec-4df1-8f84-6d2f6a8fc696",
+    "lay": "H",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 64,
+    "article": "AF7020CVR",
+    "mid": "4cbd7504-071c-4a15-8ec2-aacafa5b828a",
+    "lay": "H",
+    "tone": "deep dark warm"
+  },
+  {
+    "i": 65,
+    "article": "AF7505SOU",
+    "mid": "52fe7d1f-58e9-4482-ba6a-17ea1cfe600c",
+    "lay": "S",
+    "tone": "mid-tone cool grey"
+  },
+  {
+    "i": 66,
+    "article": "AF7501SOU",
+    "mid": "e9a5d45c-4055-4568-954c-2ae917dc8e89",
+    "lay": "S",
+    "tone": "very pale golden"
+  },
+  {
+    "i": 67,
+    "article": "AF7502SOU",
+    "mid": "61221ec4-1cb7-4c29-8108-d0c0ac757418",
+    "lay": "S",
+    "tone": "light golden"
+  },
+  {
+    "i": 68,
+    "article": "AF7506SOU",
+    "mid": "9f73d7aa-b942-4e0f-8ac7-d072d727f52a",
+    "lay": "S",
+    "tone": "light golden"
+  },
+  {
+    "i": 69,
+    "article": "AF7503SOU",
+    "mid": "717cedec-7b27-47b7-a8a7-b197d9103d90",
+    "lay": "S",
+    "tone": "mid-tone golden"
+  },
+  {
+    "i": 70,
+    "article": "AF7504SOU",
+    "mid": "2bdefa92-705f-4736-b6bd-04a6b11fa3a7",
+    "lay": "S",
+    "tone": "deep dark golden"
+  }
+]
