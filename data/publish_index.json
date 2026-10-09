@@ -24,14 +24,16 @@
     "visual": "visuals/pergo-goteborg-pro-l1257-01831.jpg"
   },
   "L1367-06991": {
-    "card": "cards/pergo-kalmar-l1367-06991.jpg"
+    "card": "cards/pergo-kalmar-l1367-06991.jpg",
+    "visual": "visuals/pergo-kalmar-l1367-06991.jpg"
   },
   "L1367-06988": {
     "card": "cards/pergo-kalmar-l1367-06988.jpg",
     "visual": "visuals/pergo-kalmar-l1367-06988.jpg"
   },
   "L1367-06989": {
-    "card": "cards/pergo-kalmar-l1367-06989.jpg"
+    "card": "cards/pergo-kalmar-l1367-06989.jpg",
+    "visual": "visuals/pergo-kalmar-l1367-06989.jpg"
   },
   "L1249-08598": {
     "card": "cards/pergo-uppsala-pro-l1249-08598.jpg",
@@ -46,7 +48,8 @@
     "visual": "visuals/loc-floor-tempo-lft638.jpg"
   },
   "LFT639": {
-    "card": "cards/loc-floor-tempo-lft639.jpg"
+    "card": "cards/loc-floor-tempo-lft639.jpg",
+    "visual": "visuals/loc-floor-tempo-lft639.jpg"
   },
   "LFT640": {
     "card": "cards/loc-floor-tempo-lft640.jpg",
@@ -61,7 +64,8 @@
     "visual": "visuals/loc-floor-tempo-lft643.jpg"
   },
   "LFT644": {
-    "card": "cards/loc-floor-tempo-lft644.jpg"
+    "card": "cards/loc-floor-tempo-lft644.jpg",
+    "visual": "visuals/loc-floor-tempo-lft644.jpg"
   },
   "508": {
     "card": "cards/alsa-flooring-elegant-herringbone-508.jpg",
@@ -148,212 +152,279 @@
     "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4516pql.jpg"
   },
   "AF4503PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4503pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4503pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4503pql.jpg"
   },
   "AF4512PQL": {
     "card": "cards/aquafloor-space-parquet-zamkovaya-af4512pql.jpg",
     "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4512pql.jpg"
   },
   "AF4506PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4506pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4506pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4506pql.jpg"
   },
   "AF4511PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4511pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4511pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4511pql.jpg"
   },
   "AF4504PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4504pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4504pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4504pql.jpg"
   },
   "AF4513PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4513pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4513pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4513pql.jpg"
   },
   "AF4508PQL": {
     "card": "cards/aquafloor-space-parquet-zamkovaya-af4508pql.jpg",
     "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4508pql.jpg"
   },
   "AF4514PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4514pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4514pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4514pql.jpg"
   },
   "AF4519PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4519pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4519pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4519pql.jpg"
   },
   "AF4505PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4505pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4505pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4505pql.jpg"
   },
   "AF4515PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4515pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4515pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4515pql.jpg"
   },
   "AF4518PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4518pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4518pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4518pql.jpg"
   },
   "AF4501PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4501pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4501pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4501pql.jpg"
   },
   "AF4507PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4507pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4507pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4507pql.jpg"
   },
   "AF4517PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4517pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4517pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4517pql.jpg"
   },
   "AF4502PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4502pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4502pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4502pql.jpg"
   },
   "AF4509PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4509pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4509pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4509pql.jpg"
   },
   "AF4520PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4520pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4520pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4520pql.jpg"
   },
   "AF4510PQL": {
-    "card": "cards/aquafloor-space-parquet-zamkovaya-af4510pql.jpg"
+    "card": "cards/aquafloor-space-parquet-zamkovaya-af4510pql.jpg",
+    "visual": "visuals/aquafloor-space-parquet-zamkovaya-af4510pql.jpg"
   },
   "AF2504PG": {
-    "card": "cards/aquafloor-parquet-glue-kleevaya-af2504pg.jpg"
+    "card": "cards/aquafloor-parquet-glue-kleevaya-af2504pg.jpg",
+    "visual": "visuals/aquafloor-parquet-glue-kleevaya-af2504pg.jpg"
   },
   "AF2507PG": {
-    "card": "cards/aquafloor-parquet-glue-kleevaya-af2507pg.jpg"
+    "card": "cards/aquafloor-parquet-glue-kleevaya-af2507pg.jpg",
+    "visual": "visuals/aquafloor-parquet-glue-kleevaya-af2507pg.jpg"
   },
   "AF2517PG": {
-    "card": "cards/aquafloor-parquet-glue-kleevaya-af2517pg.jpg"
+    "card": "cards/aquafloor-parquet-glue-kleevaya-af2517pg.jpg",
+    "visual": "visuals/aquafloor-parquet-glue-kleevaya-af2517pg.jpg"
   },
   "AF2516PG": {
-    "card": "cards/aquafloor-parquet-glue-kleevaya-af2516pg.jpg"
+    "card": "cards/aquafloor-parquet-glue-kleevaya-af2516pg.jpg",
+    "visual": "visuals/aquafloor-parquet-glue-kleevaya-af2516pg.jpg"
   },
   "AF6026PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6026pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6026pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6026pq.jpg"
   },
   "AF6027PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6027pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6027pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6027pq.jpg"
   },
   "AF6017PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6017pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6017pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6017pq.jpg"
   },
   "AF6019PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6019pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6019pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6019pq.jpg"
   },
   "AF6029PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6029pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6029pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6029pq.jpg"
   },
   "AF6011PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6011pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6011pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6011pq.jpg"
   },
   "AF6016PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6016pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6016pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6016pq.jpg"
   },
   "AF6028PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6028pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6028pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6028pq.jpg"
   },
   "AF6020PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6020pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6020pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6020pq.jpg"
   },
   "AF6012PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6012pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6012pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6012pq.jpg"
   },
   "AF6021PQN+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6021pqn.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6021pqn.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6021pqn.jpg"
   },
   "AF6023PQN+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6023pqn.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6023pqn.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6023pqn.jpg"
   },
   "AF6024PQN+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6024pqn.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6024pqn.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6024pqn.jpg"
   },
   "AF6022PQN+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6022pqn.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6022pqn.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6022pqn.jpg"
   },
   "AF6025PQN+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6025pqn.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6025pqn.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6025pqn.jpg"
   },
   "AF6013PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6013pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6013pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6013pq.jpg"
   },
   "AF6014PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6014pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6014pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6014pq.jpg"
   },
   "AF6015PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6015pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6015pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6015pq.jpg"
   },
   "AF6018PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6018pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6018pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6018pq.jpg"
   },
   "AF6030PQ+": {
-    "card": "cards/aquafloor-parquet-plus-7mm-af6030pq.jpg"
+    "card": "cards/aquafloor-parquet-plus-7mm-af6030pq.jpg",
+    "visual": "visuals/aquafloor-parquet-plus-7mm-af6030pq.jpg"
   },
   "AF2551PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2551pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2551pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2551pgch.jpg"
   },
   "AF2552PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2552pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2552pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2552pgch.jpg"
   },
   "AF2553PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2553pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2553pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2553pgch.jpg"
   },
   "AF2554PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2554pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2554pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2554pgch.jpg"
   },
   "AF2555PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2555pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2555pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2555pgch.jpg"
   },
   "AF2556PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2556pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2556pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2556pgch.jpg"
   },
   "AF2557PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2557pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2557pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2557pgch.jpg"
   },
   "AF2558PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2558pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2558pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2558pgch.jpg"
   },
   "AF2559PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2559pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2559pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2559pgch.jpg"
   },
   "AF2560PGCh": {
-    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2560pgch.jpg"
+    "card": "cards/aquafloor-chevron-kleevaya-franc-elochka-af2560pgch.jpg",
+    "visual": "visuals/aquafloor-chevron-kleevaya-franc-elochka-af2560pgch.jpg"
   },
   "AF7011CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7011cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7011cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7011cvr.jpg"
   },
   "AF7012CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7012cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7012cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7012cvr.jpg"
   },
   "AF7013CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7013cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7013cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7013cvr.jpg"
   },
   "AF7014CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7014cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7014cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7014cvr.jpg"
   },
   "AF7015CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7015cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7015cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7015cvr.jpg"
   },
   "AF7018CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7018cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7018cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7018cvr.jpg"
   },
   "AF7017CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7017cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7017cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7017cvr.jpg"
   },
   "AF7016CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7016cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7016cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7016cvr.jpg"
   },
   "AF7019CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7019cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7019cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7019cvr.jpg"
   },
   "AF7020CVR": {
-    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7020cvr.jpg"
+    "card": "cards/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7020cvr.jpg",
+    "visual": "visuals/aquafloor-chevron-premium-zamkovaya-franc-elochka-af7020cvr.jpg"
   },
   "AF7505SOU": {
-    "card": "cards/aquafloor-soundless-af7505sou.jpg"
+    "card": "cards/aquafloor-soundless-af7505sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7505sou.jpg"
   },
   "AF7501SOU": {
-    "card": "cards/aquafloor-soundless-af7501sou.jpg"
+    "card": "cards/aquafloor-soundless-af7501sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7501sou.jpg"
   },
   "AF7502SOU": {
-    "card": "cards/aquafloor-soundless-af7502sou.jpg"
+    "card": "cards/aquafloor-soundless-af7502sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7502sou.jpg"
   },
   "AF7506SOU": {
-    "card": "cards/aquafloor-soundless-af7506sou.jpg"
+    "card": "cards/aquafloor-soundless-af7506sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7506sou.jpg"
   },
   "AF7503SOU": {
-    "card": "cards/aquafloor-soundless-af7503sou.jpg"
+    "card": "cards/aquafloor-soundless-af7503sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7503sou.jpg"
   },
   "AF7504SOU": {
-    "card": "cards/aquafloor-soundless-af7504sou.jpg"
+    "card": "cards/aquafloor-soundless-af7504sou.jpg",
+    "visual": "visuals/aquafloor-soundless-af7504sou.jpg"
   }
 }

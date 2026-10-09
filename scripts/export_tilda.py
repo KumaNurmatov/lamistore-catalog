@@ -88,24 +88,26 @@ def main():
     ap.add_argument("--prices", choices=("filled", "matrix", "zero"), default="filled",
                     help="filled — матрица плюс подставленные; "
                          "matrix — только из матрицы; zero — везде 0")
+    ap.add_argument("--pages-base",
+                    default="https://kumanurmatov.github.io/lamistore-catalog",
+                    help="база GitHub Pages; картинки берутся оттуда, "
+                         "а не из загруженных в Тильду вручную")
     ap.add_argument("--keep-uid", action="store_true",
                     help="оставить колонку Tilda UID; по умолчанию она выкидывается — "
                          "при импорте новых товаров Тильда берёт её за уникальный ключ "
                          "и отвергает строки с пустым значением (Empty Uniq column: uid)")
     ap.add_argument("-o", "--out", default=str(ROOT / "data" / "tilda_import.csv"))
+    ap.add_argument("--include-unready", action="store_true",
+                    help="выгружать и позиции без карточки; по умолчанию они "
+                         "пропускаются, иначе в каталоге появятся товары без фото")
     ap.add_argument("articles", nargs="*", help="артикулы; без них — весь каталог")
     args = ap.parse_args()
 
     products = json.loads((ROOT / "data" / "products.json").read_text(encoding="utf-8"))
-    photos = {}
-    f = ROOT / "data" / "tilda_photo_urls.json"
-    if f.exists():
-        photos = json.loads(f.read_text(encoding="utf-8"))
-    # Вторая фотография — интерьер, показывается на ховере в каталоге.
-    visuals = {}
-    f = ROOT / "data" / "tilda_visual_urls.json"
-    if f.exists():
-        visuals = json.loads(f.read_text(encoding="utf-8"))
+    # Карточка и интерьер лежат на GitHub Pages: имя файла — sku-слаг позиции,
+    # так что адрес однозначно сопоставим с товаром.
+    base = args.pages_base.rstrip("/")
+    published = json.loads((ROOT / "data" / "publish_index.json").read_text(encoding="utf-8"))
     brand_tabs = {}
     f = ROOT / "data" / "brand_tabs.json"
     if f.exists():
@@ -116,6 +118,15 @@ def main():
     f = ROOT / "data" / "product_tabs.json"
     if f.exists():
         product_tabs = json.loads(f.read_text(encoding="utf-8"))
+
+    if not args.include_unready:
+        skipped = [p for p in products if not p["card"]]
+        products = [p for p in products if p["card"]]
+        if skipped:
+            import collections
+            c = collections.Counter(p["brand"] for p in skipped)
+            print("Пропущено без карточки: " +
+                  ", ".join(f"{k} — {v}" for k, v in c.items()))
 
     if args.articles:
         order = {a: i for i, a in enumerate(args.articles)}
@@ -138,14 +149,14 @@ def main():
 
     rows, no_photo, no_visual, derived = [], [], [], []
     for p in products:
-        key = p["card"] and pathlib.Path(p["card"]).with_suffix(".jpg").name
-        photo = photos.get(key, "")
+        rec = published.get(p["article"] or "", {})
+        photo = f"{base}/{rec['card']}" if rec.get("card") else ""
+        visual = f"{base}/{rec['visual']}" if rec.get("visual") else ""
         if not photo:
             no_photo.append(p["article"] or p["sku"])
-        # Несколько фото Тильда разделяет пробелом; порядок задаёт, какая на ховере.
-        visual = visuals.get(p["article"] or "", "")
         if not visual:
             no_visual.append(p["article"] or p["sku"])
+        # Несколько фото Тильда разделяет пробелом; порядок задаёт, какая на ховере.
         photo_field = " ".join(u for u in (photo, visual) if u)
 
         tabs = []
@@ -195,7 +206,7 @@ def main():
     if no_photo:
         print(f"  БЕЗ ФОТО:        {', '.join(no_photo)}")
     if no_visual:
-        print(f"  БЕЗ ВИЗУАЛИЗАЦИИ: {', '.join(no_visual)}")
+        print(f"  без визуализации: {len(no_visual)} поз.")
 
 if __name__ == "__main__":
     main()
